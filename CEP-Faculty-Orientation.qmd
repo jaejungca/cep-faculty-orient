@@ -1,0 +1,807 @@
+---
+title: "MSDM CEP: <span style='color: #b52b4c;'><br>Orientation for Faculty - Project Leads and Instructors</span>"
+author: "Jae Jung, Ph.D., Professor of Marketing"
+institute: "Master of Science in Digital Marketing (MSDM) Program Cal Poly Pomona"
+date: "09/09/2026"
+date-format: "M/D/YYYY"
+format:
+  revealjs:
+    center: false
+    logo: "logos/MSDM logo horizontal-transparent.png"
+    theme: [default, theme.scss]
+    slide-number: true
+    toc: true
+    toc-depth: 1
+    code-link: true
+    link-external-newwindow: true
+    #chalkboard: true #cannot use with self-contained
+    embed-resources: true
+    multiplex: true
+    width: 1600
+    height: 900
+    margin: 0.1
+    minScale: 0.2
+    maxScale: 2.0
+    scrollable: true
+    html:
+      unsafe: true
+execute: 
+  freeze: auto
+---
+
+# Announcement
+
+-   Live slides available at <https://github.com/jaejungca/cep-faculty-orient>
+
+# Overall Agenda
+
+::: incremental
+1.  Greetings
+2.  Project-Group Matching
+3.  Compensation and Contract
+4.  Expectations and Deliverables
+    -   Fall
+    -   Sprig
+    -   Summer
+    -   Committee chair and paperwork
+5.  Meetings with Students and Client
+    -   Frequency and Duration
+    -   Communication and Documentation
+6.  Milestones and Timelines for fall 2026
+    -   Kick-off meeting: Next week
+    -   Project Proposal: Week 9
+    -   Final Proposal Defense: Week 15
+:::
+
+# Greetings and Introductions
+
+-   Jae Min Jung, Ph.D., Professor of Marketing, Director of MSDM
+
+-   All other faculty and instructors, please introduce yourself with your name, title, and affiliation.
+
+# Project-Group Matching
+
+# Compensation and Contract
+
+# Expectations and Deliverables
+
+-   Essential Documents:
+
+    -   [MSDM Culminating Experience Project - Responsibilities for All Parties](https://www.cppmsdm.com/cep_responsibilities)
+
+    -   [MSDM Culminating Experience Project Guide](https://www.cppmsdm.com/cep_guidelines)
+
+    -   [MSDM CEP Main Web Page](https://www.cppmsdm.com/capstone_project)
+
+-   [Fall](https://www.cppmsdm.com/cep_responsibilities#faculty-project-lead)
+
+-   [Sprig](https://www.cppmsdm.com/cep_responsibilities#faculty-project-lead-1)
+
+-   [Summer](https://www.cppmsdm.com/cep_responsibilities#sec-resp-faculty-lead-summer)
+
+-   [Committee chair and paperwork](https://www.cppmsdm.com/capstone_project#final-edits)
+
+    -   [Week 9](https://www.cppmsdm.com/capstone_project#final-edits)
+
+    -   [Week 10](https://www.cppmsdm.com/capstone_project#paperwork)
+
+# Meetings with Students and Client
+
+-   Frequency and Duration
+
+-   Communication and Documentation
+
+    -   [Project Managemnet Tools](https://www.cppmsdm.com/skills_tools_courses#project-management-tools)
+
+    -   Calendar Invite for Recurring Meetings
+
+    -   Agendas and Minutes
+
+# Milestones and Timelines for AY 2026-2027
+
+## Fall Semester
+
++-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Week / Date** | **Task**                                                                                                                                                                                  |
++-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Su W01 (6/01)   | **Call for Project Proposal** ([Section 5](https://www.cppmsdm.com/capstone_project#sec-call-for-project-proposals))                                                                      |
++-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Su W06 (7/06)   | **MSDM CEP Informational Session** ([Section 6](https://www.cppmsdm.com/capstone_project#sec-informational-session))                                                                      |
++-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| FA W00 (8/17)   | Proposal Deadline                                                                                                                                                                         |
++-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| FA W01 (8/24)   | Feedback provided to the proposers                                                                                                                                                        |
++-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| FA W02 (8/31)   | Project forum will be held in both IBM 6200 and IBM 6500                                                                                                                                  |
+|                 |                                                                                                                                                                                           |
+|                 | -   MSDM Project Forum I-Elevator Pitch: Group Formation                                                                                                                                  |
+|                 |                                                                                                                                                                                           |
+|                 | -   MSDM Project Forum II - Q&A Session: Submission of Project Preference Form (See [how to choose a project](https://www.cppmsdm.com/capstone_project#introduction))                     |
++-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| FA W03 (9/08)   | Project-Group Assignment Completed                                                                                                                                                        |
++-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| FA W04 (9/15)   | [**Project Kickoff Day (W04)**](https://www.cppmsdm.com/capstone_project#project-kickoff-day)                                                                                             |
+|                 |                                                                                                                                                                                           |
+|                 | -   First meeting with Faculty Lead and Client; Planning                                                                                                                                  |
+|                 |                                                                                                                                                                                           |
+|                 | -   For survey research, research design starts                                                                                                                                           |
+|                 |                                                                                                                                                                                           |
+|                 | -   For GA4 data, infrastructure setting (GA4, GTM, UTM) and verification starts                                                                                                          |
+|                 |                                                                                                                                                                                           |
+|                 | -   Secondary Data → Obtain it from Client. Ensure data integrity for your AO’s                                                                                                           |
++-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| FA W09 (10/20)  | [**Initial Proposal Presentation (W09)**](https://www.cppmsdm.com/capstone_project#initial-proposal-presentation)                                                                         |
+|                 |                                                                                                                                                                                           |
+|                 | -   Written report (Chapter 1, Chapter 2, and Chapter 3) / PPT due                                                                                                                        |
+|                 |                                                                                                                                                                                           |
+|                 | -   Survey instrument for survey research                                                                                                                                                 |
++-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| FA W10 (10/27)  | *Data Collection Preparation*                                                                                                                                                             |
+|                 |                                                                                                                                                                                           |
+|                 | -   [Primary Data Collection](https://www.cppmsdm.com/capstone_project#data-collection-primary-secondary) → **Apply for IRB** approval (takes at least 2-3 weeks for review and approval) |
+|                 |                                                                                                                                                                                           |
+|                 | -   [Secondary Data](https://www.cppmsdm.com/capstone_project#data-collection-primary-secondary) → Confirm **data integrity** for your AO’s                                               |
+|                 |                                                                                                                                                                                           |
+|                 | -   [GA4 data](https://www.cppmsdm.com/capstone_project#preparation-owned-media) → **Configure GTM**; plan for implanting **UTM** to social media & Email campaigns                       |
++-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| FA W12 (11/10)  | [*Data Collection Begins*](https://www.cppmsdm.com/capstone_project#data-collection)                                                                                                      |
+|                 |                                                                                                                                                                                           |
+|                 | -   [Primary Data Collection Methods](https://www.cppmsdm.com/capstone_project#data-collection-primary-secondary) → Primary Data Collection begins                                        |
+|                 |                                                                                                                                                                                           |
+|                 | -   [Secondary Data](https://www.cppmsdm.com/capstone_project#data-collection-primary-secondary) → Obtain it from Client. Ensure data integrity for your AO’s                             |
+|                 |                                                                                                                                                                                           |
+|                 | -   GA4 data → [GA4 data ingestion to **BigQuery**](https://www.cppmsdm.com/capstone_project#etl-tools-for-ga4-and-google-ads-data)                                                       |
++-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| FA W15 (12/02)  | [**Final Proposal Defense Presentation (W15)**](https://www.cppmsdm.com/capstone_project#final-proposal-defense-presentation)                                                             |
+|                 |                                                                                                                                                                                           |
+|                 | -   Written report (Chapter 1, Chapter 2, and Chapter 3) / PPT due                                                                                                                        |
+|                 |                                                                                                                                                                                           |
+|                 | -   IRB Approval Letter for survey research                                                                                                                                               |
+|                 |                                                                                                                                                                                           |
+|                 | -   Linked to Data saved in shared OneDrive                                                                                                                                               |
++-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| FA W16 (12/9)   | Faculty Formal Feedback to Student Groups                                                                                                                                                 |
++-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+## Winter Break
+
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Week / Date**             | **Task**                                                                                                                                                                             |
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Winter Break (12/15 - 1/18) | -   Address faculty feedback                                                                                                                                                         |
+|                             |                                                                                                                                                                                      |
+|                             | -   Group should take appropriate steps necessary for them to get ready for Spring. See [Winter Break Activities](https://www.cppmsdm.com/capstone_project#winter-break-activities). |
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+## Spring Semester
+
++---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| SP W01 (1/19) | [***Data Analysis Starts***](https://www.cppmsdm.com/capstone_project#data-analysis-starts-in-day-1-w01)                                                        |
+|               |                                                                                                                                                                 |
+|               | -   Data Wrangling & Visualization start;                                                                                                                       |
+|               |                                                                                                                                                                 |
+|               | -   Descriptive and Predictive Analytics follow                                                                                                                 |
++---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| SP W05 (2/22) | [**Data Analysis and Results Presentation (W06)**](https://www.cppmsdm.com/capstone_project#data-analysis-and-results-presentation)                             |
+|               |                                                                                                                                                                 |
+|               | -   Data analysis & results (Chapter 4) — written report / PPT due                                                                                              |
++---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| SP W10 (4/05) | [**Final Data Analysis and Recommendations Presentation (W13)**](https://www.cppmsdm.com/capstone_project#final-data-analysis-and-recommendations-presentation) |
+|               |                                                                                                                                                                 |
+|               | -   Data analysis & results (Chapter 4 & Part of Chapter 5) — written report / PPT due                                                                          |
++---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| SP W15 (5/10) | [Digital Marketing Plan Presentation (W15)](https://www.cppmsdm.com/capstone_project#digital-marketing-plan-presentation-and-start-the-campaign-immediately)    |
+|               |                                                                                                                                                                 |
+|               | -   Marketing Campaign Starts Immediately                                                                                                                       |
++---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+## Summer Term
+
++---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| SU W01 (6/01) | [Digital Marketing Plan execution continues](https://www.cppmsdm.com/capstone_project#digital-marketing-plan-execution-continues-w01)                                       |
++---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| SU W05 (7/02) | [**Digital Marketing Plan & Execution Progress Presentation (W05)**](https://www.cppmsdm.com/capstone_project#digital-marketing-plan-execution-progress-presentation)       |
+|               |                                                                                                                                                                             |
+|               | -   Chapter 5 Update — written report / PPT due                                                                                                                             |
++---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| SU W08 (7/24) | [Final presentation — DM performance assessment and reflection (W08)](https://www.cppmsdm.com/capstone_project#final-presentation-dm-performance-assessment-and-reflection) |
+|               |                                                                                                                                                                             |
+|               | -   Complete Chapter 5 - Written report / PPT due                                                                                                                           |
++---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| SU W09 (7/26) | [**Final Edits & Post-Presentation Activities**](https://www.cppmsdm.com/capstone_project#final-edits), including                                                           |
+|               |                                                                                                                                                                             |
+|               | -   Abstract                                                                                                                                                                |
+|               |                                                                                                                                                                             |
+|               | -   Individual Contribution Statement (ICS)                                                                                                                                 |
+|               |                                                                                                                                                                             |
+|               | -   Secure Committee Signature (Chair/Reader) via *Adobe Docu Process* on Graduate Studies Website.                                                                         |
+|               |                                                                                                                                                                             |
+|               | -   Complete CEP written report (Abstract, ICS, TOC, Ch1, Ch2, Ch3, Ch4, Ch5, Appendix, References)                                                                         |
++---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| SU W10 (8/02) | [**Paperwork**](https://www.cppmsdm.com/capstone_project#paperwork)                                                                                                         |
+|               |                                                                                                                                                                             |
+|               | -   Submission of Report of Culminating Experience (RCE) by Faculty Project Lead                                                                                            |
+|               |                                                                                                                                                                             |
+|               | -   Submission of Abstract/ICS to Library                                                                                                                                   |
+|               |                                                                                                                                                                             |
+|               | -   Submission of Complete Project Written Report                                                                                                                           |
++---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+## Quarto document Samples
+
+-   My Quarto-pub website: <https://jmjung.quarto.pub/>
+-   Quarto Gallery: <https://quarto.org/docs/gallery/>
+
+## Steps in Preparing for a project
+
+-   R & RStudio:
+    -   Installation: <https://posit.co/download/rstudio-desktop/>
+
+------------------------------------------------------------------------
+
+### 1. Start a new project
+
+-   Projects are the containers for all of your notebooks.
+
+::: incremental
+```         
+1.  From File, click `new project`
+2.  Select a new or existing directory depending on your needs
+3.  Select your folder that will contain your project.
+4.  Press create project
+```
+:::
+
+-   You should see your `.Rproj` file and others in the `Files` panel
+
+------------------------------------------------------------------------
+
+### 2. Start a codebook/notebook and save it
+
+-   R Scripts file
+
+-   Rmd file
+
+-   Quarto file
+
+------------------------------------------------------------------------
+
+### 3. Start literate coding with Quarto
+
+------------------------------------------------------------------------
+
+### Three Areas in Quarto File
+
+-   Detailed tutorials available at [the official Quarto site](https://quarto.org/docs/get-started/hello/rstudio.html)
+
+------------------------------------------------------------------------
+
+#### 1. Yaml header
+
+An YAML header demarcated by three dashes (`---`) on either end.
+
+```         
+---
+title: "Module 1 Introduction to R, RStudio, and Qurto"
+author: "Jae Jung"
+date: '`r format(Sys.time())`'
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+```
+
+------------------------------------------------------------------------
+
+#### 2. Code chunk
+
+```{{r}}
+#| label: demo-code-chunk
+#| include: true
+
+#install.packages("tidyverse")
+#install.packages("palmerpenguins")
+library(tidyverse)
+library(palmerpenguins)
+```
+
+------------------------------------------------------------------------
+
+#### 3. Markdown text area
+
+::: incremental
+-   Text area is all the canvas area within qmd file other than Yaml header and code chun areas.
+
+-   Quarto uses markdown syntax for text.
+
+-   You can use text area for typing prose as you would normally do in MS Word or Google Doc.
+
+    -   Text with formatting: section headers, hyperlinks, an embedded image, and an inline code chunk.
+
+-   You can also style it: e.g., **Bold**; *Italicize*
+:::
+
+------------------------------------------------------------------------
+
+::: {.callout-tip .incremental title="Coding Tips"}
+[**Be Careful**]{.red-text}: do **not** ***code*** in the **text area**.
+
+-   It is possible to type the code and run in the text area.
+-   However, it won't be read and rendered into a document.
+-   During the rendering, RStudio will be in an auto-pilot mode and will treat everything in the text area as a text except for `in-line code`.
+:::
+
+## Qurto Interface
+
+### Visual editor
+
+-   Easier to those who are familiar with MS Word or Google Doc.
+-   To add something; press `ctrl/commnad` + `/`
+-   Adding table by hand is cumbersome.
+-   Adding an figure/image
+
+------------------------------------------------------------------------
+
+### Source editor
+
+-   Easier to those who are familiar with R Script file or Rmd file.
+-   Useful for debugging any Quarto syntax errors since it’s often easier to catch these in plain text.
+-   Handy reference sheet available at the RStudio menu:
+    -   *Help \> Markdown Quick Reference*
+
+## Literate Programming in Quarto
+
+Hands-on visualization activity if time permitted
+
+```{r}
+#| echo: true
+#| output-location: column-fragment
+library(tidyverse)
+library(gt)
+mpg |>
+  count(drv) |>
+  mutate(percent = n / sum(n)) |>
+  gt() |>
+  fmt_percent(columns = percent, decimals = 2) |>
+  tab_header(title = md("**Number of Cars by Drive Train Type**")) |>
+  tab_source_note(
+    source_note = md("**Note**: The data is from `ggplot2` package")
+  )
+```
+
+# Publishing a professional portfolio website with Quarto with `Jarrod Griffin`
+
+## Expected Outcomes:
+
+::: incremental
+-   Walk away with a starter professional website including résumé
+-   Publish your professional portfolio website
+-   Customize themeing via SCSS
+-   Understand options on linking a custom domain to a freely hosted website
+:::
+
+::: fragment
+Who here currently has a professional website?
+:::
+
+## Why Quarto for a professional portfolio website?
+
+-   **Write once → ship anywhere** (HTML, slides, dashboards)
+-   Native **R / Python** for fully reproducible analytics\
+-   *Examples*: Refer to Dr. Jung’s section\
+-   Zero-cost hosting: GitHub Pages · Quarto Pub · Netlify
+
+## Live Example - Quick Tour
+
+<iframe src="https:jarrodgriffin.com" width="100%" height="800">
+
+</iframe>
+
+## Hands-On Live Build <br><br>
+
+### Follow along to create your own professional website! Instructions on next slide. Requirements: <br><br>
+
+#### - RStudio installed
+
+#### - Internet connection
+
+## Clone the Template
+
+**Option A** – RStudio GUI\
+1. *File › New Project › Version Control › Git*\
+2. Paste repo URL <https://github.com/CCIDM/portfolio-website-template> → *Create*
+
+<br><br>
+
+**Option B** – Console (no Git required)
+
+``` r
+install.packages("usethis")
+
+destination_directory <- "~/PortfolioProject"  # change if you like
+if (!dir.exists(destination_directory)) dir.create(destination_directory, recursive = TRUE)
+
+usethis::create_from_github(
+  "CCIDM/portfolio-website-template",
+  destdir = destination_directory,      
+  open   = TRUE 
+)
+```
+
+<br><br>
+
+**Option C** – Download .zip from GitHub link and open .Rproj
+
+## Needed Admin Actions
+
+<br><br>
+
+### Sever Git connection to original repo
+
+::: {.callout-important title="Sever the remote connection"}
+``` bash
+git remote remove origin
+```
+
+Run this command to disconnect your local repository from the remote named **origin**.
+:::
+
+<br><br>
+
+### Install tinytext for PDF resume
+
+``` r
+install.packages(c("tinytex"))
+
+tinytex::install_tinytex() 
+```
+
+## Site Structure
+
+A well-organized portfolio website might include the following pages:
+
+-   **Home Page:**\
+    An introduction and personal statement.
+
+-   **Marketing Analytics:**\
+    A blog-like page showcasing your work in data-driven marketing, including case studies, data visualizations, and performance metrics.
+
+-   **Strategic Marketing:**\
+    A dedicated section highlighting your expertise in marketing strategy, brand development, and market positioning.
+
+-   **Resume:**\
+    A page featuring your CV, built using Markdown and the Vitae package.
+
+## Anatomy of the Quarto Portfolio {.stretch}
+
++---------------------------+----------------------------------------------------------+
+| File / Folder             | Purpose                                                  |
++===========================+==========================================================+
+| `_quarto.yml`             | Global settings, nav & theme (points `output-dir: docs`) |
++---------------------------+----------------------------------------------------------+
+| `theme.scss`              | Brand fonts/colours – imported by `_quarto.yml`          |
++---------------------------+----------------------------------------------------------+
+| `index.qmd`               | Home page – intro & value statement                      |
++---------------------------+----------------------------------------------------------+
+| `marketing-analytics.qmd` | Data-driven case studies                                 |
++---------------------------+----------------------------------------------------------+
+| `strategic-marketing.qmd` | Strategy & positioning projects                          |
++---------------------------+----------------------------------------------------------+
+| `resume.qmd`              | CV in markdown and one-page PDF resume                   |
++---------------------------+----------------------------------------------------------+
+| `listings/`               | Five deep-dive project pages (01-…, 02-…, …)             |
++---------------------------+----------------------------------------------------------+
+| `data/`                   | Raw datasets, HTML exports (e.g., SEO report)            |
++---------------------------+----------------------------------------------------------+
+| `images/`                 | Headshots, hero banners, thumbnails                      |
++---------------------------+----------------------------------------------------------+
+| `resume/`                 | knitted PDF & vitae Rmd source                           |
++---------------------------+----------------------------------------------------------+
+| `docs/`                   | **Auto-generated** site output ≤ *don’t edit by hand*    |
++---------------------------+----------------------------------------------------------+
+| `.Rproj`                  | RStudio project file for quick open                      |
++---------------------------+----------------------------------------------------------+
+
+## File Structure
+
+``` text
+portfolio-website/
+├── _quarto.yml
+├── theme.scss
+├── index.qmd
+├── marketing-analytics.qmd
+├── strategic-marketing.qmd
+├── listings/
+│   ├── 01-campaign-insights-dashboard.qmd
+│   ├── 02-seo-benchmarking-analysis.qmd
+│   └── …                             # 3 more deep dives
+├── data/
+│   └── TRI SEO Comparison.html
+├── images/
+│   ├── headshot.jpg
+│   └── hero.jpeg
+├── resume.qmd
+├── resume/
+│   ├── YOUR-NAME-Resume.Rmd
+│   └── YOUR-NAME-Resume.pdf
+└── personal_website.Rproj
+```
+
+## Six Key Files – 30-Second Tour {.stretch}
+
+-   *quarto.yml – brain*\
+-   theme.scss – brand skin\
+-   index.qmd – intro handshake\
+-   marketing-analytics.qmd – auto gallery\
+-   strategic-marketing.qmd – long-form thought pieces\
+-   resume.qmd – recruiter-ready résumé
+
+------------------------------------------------------------------------
+
+## `_quarto.yml` – Site Brain
+
+``` yaml
+project:      type: website     # activates site engine
+output-dir:   docs              # GitHub Pages target
+website:
+  title: "YOUR NAME"
+  navbar:
+    left:
+      - index.qmd
+      - marketing-analytics.qmd
+      - strategic-marketing.qmd
+      - resume.qmd
+format:
+  html:
+    theme: [flatly, theme.scss] # Bootswatch + your SCSS
+    toc: true                   # on-page table of contents
+```
+
+-   **One file controls nav, theme & metadata**—render once, everything updates.\*
+
+------------------------------------------------------------------------
+
+## `theme.scss` – Brand Dial
+
+``` scss
+$color-primary:   #123456;
+$color-secondary: #ABCDEF;
+$accent-1:        #FF7F00;
+
+body  { font-family: Arial, sans-serif; color: #121212; }
+h1    { color: $color-primary; }
+h2    { color: darken($color-secondary,10%); }
+a     { color: $accent-1; &:hover { text-decoration: underline; } }
+```
+
+*Swap two colours → whole site re-skins.*
+
+------------------------------------------------------------------------
+
+## `index.qmd` – Handshake Page
+
+``` markdown
+---
+title: "Hi, I'm Jarrod Griffin"   # ①
+---
+
+::: {.columns}                    # ② responsive two-column layout
+::: {.column width="30%"}
+![](images/headshot.jpg){width=100% style="border-radius:50%;"}
+:::
+::: {.column width="70%" style="padding-left:3rem;"}
+I'm a **marketing-analytics specialist** who turns complex data
+into clear, actionable insight.
+:::
+:::
+
+## About Me                     # ③ narrative section
+I hold a <span class="highlight">M.S. Digital Marketing</span>
+from Cal Poly Pomona.
+
+## Let's Connect                # ④ simple CTAs
+You can [email me](mailto:jarrod@example.com)  
+or connect on
+[LinkedIn](https://www.linkedin.com/in/jarrodgriffin).
+```
+
+**Key call-outs**
+
+1.  **`title:`** feeds the browser tab & SEO meta.\
+2.  **`.columns` layout** delivers a perfectly balanced headshot + intro without custom CSS.\
+3.  **Semantic headings** (`##`) appear in the auto table-of-contents (because `toc: true` in `_quarto.yml`).\
+4.  **Clear CTAs** (email, LinkedIn) = low-friction contact.
+
+*Goal:* 75-word elevator pitch + friendly photo → instant credibility.
+
+------------------------------------------------------------------------
+
+## `marketing-analytics.qmd` – Auto Gallery
+
+``` markdown
+---
+title: "Marketing Analytics"
+listing:
+  contents: listings   # scans /listings folder
+  type: grid           # card layout
+  categories: true     # filter bar
+  sort: "index desc"   # newest first
+---
+
+Below are selected projects using data to drive results.
+```
+
+*Drop a new `.qmd` in **listings/** → card appears instantly.*
+
+------------------------------------------------------------------------
+
+## `strategic-marketing.qmd` – Thought Leadership
+
+``` markdown
+---
+title: "Strategic Marketing"
+---
+
+## Brand Audit & Positioning
+Short narrative …
+
+**Skills Demonstrated**
+- Brand Analysis
+- Competitive Benchmarking
+- Strategic Communication
+
+<iframe src="data/TRI SEO Comparison.html" width="100%" height="600" style="border:none;"></iframe>
+```
+
+*Long-form storytelling + embedded proof.*
+
+------------------------------------------------------------------------
+
+## `resume.qmd` – Recruiter Page
+
+``` markdown
+---
+title: "Résumé"
+---
+
+View the PDF résumé [here](resume/Resume.pdf).
+
+# Technical Skills
+- **Languages:** R, Python, SQL
+- **Web:** HTML, SCSS, Quarto
+
+# Education
+| Degree | Year | Institution |
+|--------|------|-------------|
+| M.S. Digital Marketing | 2023–2025 | Cal Poly Pomona |
+
+### Data Analyst, ACME Corp
+*Jan 2022 – Mar 2024*
+- Automated KPI dashboards → –20 h/mo manual work
+```
+
+*HTML for SEO, PDF for ATS(Applicant Tracking System)—best of both worlds.*
+
+## Building a PDF Résumé with **vitae**
+
+::::: columns
+::: {.column width="50%"}
+``` r
+---
+name:      Jarrod
+surname:   Griffin
+position:  "Marketing-Analytics Specialist"
+phone:     +1 (555) 123-4567
+www:       jarrod.codes
+email:     jarrod@example.com
+linkedin:  jarrodgriffin
+output:
+  vitae::latexcv:
+    theme: classic
+---
+```
+
+``` r
+# Professional Summary, Education, Work
+# (using tribble() + detailed_entries())
+```
+:::
+
+::: {.column width="50%"}
+**Why use `vitae`?**
+
+-   Polished LaTeX themes (`classic`, `awesomecv`, `twentyseconds`)\
+-   Data-driven helpers (`detailed_entries()`) → less manual typing\
+-   Fits Quarto builds:
+    -   inline chunk in `resume.qmd`, **or**\
+    -   `pre-render: Rscript build-resume.R` in `_quarto.yml`
+
+> **Result:** an ATS(Applicant Tracking System)-friendly PDF that updates automatically every time you rebuild the site.
+:::
+:::::
+
+## Three Ways to Publish (at a Glance)
+
++------------------+-----------------------------+------------------------+---------------------+-------------------------------+
+| Host             | One-liner                   | Requires Git/GitHub?   | Custom Domain       | Best For                      |
++==================+=============================+========================+=====================+===============================+
+| **GitHub Pages** | `quarto publish gh-pages`   | ✔ **GitHub account**   | ✔                   | People already on GitHub      |
++------------------+-----------------------------+------------------------+---------------------+-------------------------------+
+| **Netlify**      | `quarto publish netlify`    | ✖ (CLI handles upload) | ✔                   | Drag-and-drop ease, rollbacks |
++------------------+-----------------------------+------------------------+---------------------+-------------------------------+
+| **Quarto Pub**   | `quarto publish quarto-pub` | ✖                      | ✖ (public URL only) | Fastest demo / coursework     |
++------------------+-----------------------------+------------------------+---------------------+-------------------------------+
+
+------------------------------------------------------------------------
+
+## GitHub Pages – 60-Second Flow
+
+``` bash
+# inside your project root
+quarto publish gh-pages
+# first run ➜ OAuth to GitHub, auto-creates repo & pages
+```
+
+-   Renders to **docs/** then pushes to GitHub Pages.\
+-   Site lives at `https://<user>.github.io/<repo>` (custom domain via Settings ▸ Pages).
+
+------------------------------------------------------------------------
+
+## Netlify – 60-Second Flow
+
+``` bash
+quarto publish netlify             # CLI opens browser to auth
+# or:
+quarto render                      # build locally
+netlify deploy --dir=docs          # if you prefer Netlify CLI
+```
+
+-   No GitHub needed—CLI uploads a ZIP via Netlify API.\
+-   Alt: drag **docs/** onto Netlify Drop in the UI.\
+-   Netlify auto-provisions HTTPS & lets you add a domain from the dashboard.
+
+------------------------------------------------------------------------
+
+## Quarto Pub – 30-Second Flow
+
+``` bash
+quarto publish quarto-pub
+```
+
+-   Log in with Google/GitHub once → site appears at\
+    `https://<handle>.quarto.pub` immediately.\
+-   Perfect for quick public proofs-of-concept; custom domains planned but not yet available.
+
+## Point your site to a custom domain
+
+::::: columns
+::: {.column width="50%"}
+### GitHub Pages
+
+1.  **Settings › Pages › Custom domain** – enter `www.example.com`.\
+2.  At your DNS provider add
+    -   **CNAME** record → `USER.github.io` (for `www`).\
+    -   For the root domain add four **A records** →\
+        `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`.\
+3.  Back in Pages, tick **Enforce HTTPS** once the green-lock appears (GitHub issues the Let’s Encrypt certificate automatically).
+:::
+
+::: {.column width="50%"}
+### Netlify
+
+1.  **Site dashboard › Domain management › Add domain** – choose “Add a domain you already own”.\
+2.  Netlify displays the exact DNS records (usually one **CNAME** for `www` or an **ALIAS/ANAME** for the apex). Copy them to your registrar.\
+3.  Netlify provisions and renews its Let’s Encrypt certificate automatically—no extra steps.
+:::
+:::::
+
+# Q&A
+
+-   Open the floor for any questions.
+
+# Thank You!
