@@ -1,5 +1,5 @@
 ---
-title: "MSDM CEP: <span style='color: #b52b4c;'><br>Orientation for Faculty - Project Leads and Instructors</span>"
+title: "MSDM CEP: <span style='color: #b52b4c;'><br>Orientation for Faculty - <br>Project Leads and Instructors</span>"
 author: "Jae Min Jung, Ph.D., Professor of Marketing"
 institute: "Master of Science in Digital Marketing (MSDM) Program"
 date: "09/09/2026"
@@ -38,34 +38,43 @@ execute:
 # Overall Agenda
 
 ::: incremental
-1.  Greetings
-2.  Project-Group Matching
-3.  Compensation and Contract
-4.  Expectations and Deliverables
+1.  Greetings (5 min)
+2.  Project-Group Matching (5-10 min)
+3.  Compensation and Contract (5 min)
+4.  Expectations and Deliverables (20 min)
     -   Fall
     -   Sprig
     -   Summer
     -   Committee chair and paperwork
-5.  Meetings with Students and Client
+5.  Meetings with Students and Client (10 min)
     -   Frequency and Duration
     -   Communication and Documentation
-6.  Milestones and Timelines for fall 2026
-    -   Kick-off meeting: Next week
-    -   Project Proposal: Week 9
-    -   Final Proposal Defense: Week 15
+6.  Milestones and Timelines for fall 2026 (10 min)
+    -   Fall
+    -   Spring
+    -   Summer
+        -   Conference Day: Saturday, July 24, Week 8.
 :::
 
-# Greetings and Introductions
+# Greetings and Introductions (5 min)
 
 -   Jae Min Jung, Ph.D., Professor of Marketing, Director of MSDM
 
 -   All other faculty and instructors, please introduce yourself with your name, title, and affiliation.
 
-# Project-Group Matching
+# Project-Group Matching (5-10 min)
 
-# Compensation and Contract
+-   Current State and Finalization
 
-# Expectations and Deliverables
+-   When to announce it to the students?
+
+# Contract (5 min)
+
+-   Contract will be sent to you after the project is successfully over
+
+-   August - September, 2027
+
+# Expectations and Deliverables (15 min)
 
 -   Essential Documents:
 
@@ -87,11 +96,24 @@ execute:
 
     -   [Week 10](https://www.cppmsdm.com/capstone_project#paperwork)
 
-# Meetings with Students and Client
+# Meetings with Students and Client (10 min)
 
+::: small-medium
 -   Frequency and Duration
 
--   Communication and Documentation
+    -   biweekly at a minimum; more meetings if necessary
+
+-   Students should be on driver's seat; FL a shotgun
+
+    -   Ask students to update you one what they since last meeting and share their plans for the next two weeks.
+
+    -   Ask them to share shared group folder (e.g., GitHub Repo, Zotero group database, Google drive, One Ddrive).
+:::
+
+. . .
+
+::: small-medium
+-   Profesionalism Development
 
     -   [Project Managemnet Tools](https://www.cppmsdm.com/skills_tools_courses#project-management-tools)
 
@@ -99,10 +121,31 @@ execute:
 
     -   Agendas and Minutes
 
+    -   Tell them to be prepared. If there is no agenda, have them cancel the meeting.
+:::
+
+. . . 
+
+::: small-medium
+-   Client Relationship Development
+
+    -   Communication
+
+    -   Professionalism
+:::
+
 # Milestones and Timelines for AY 2026-2027
+:::{.incremental}
+- Fall
+- Winter Break
+- Spring
+- Summer
+- Conference Day: Saturday, July 24, Week 8.
+:::
 
 ## Fall Semester
 
+:::{.smaller}
 +-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Week / Date** | **Task**                                                                                                                                                                                  |
 +-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -164,6 +207,7 @@ execute:
 +-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | FA W16 (12/9)   | Faculty Formal Feedback to Student Groups                                                                                                                                                 |
 +-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+:::
 
 ## Winter Break
 
