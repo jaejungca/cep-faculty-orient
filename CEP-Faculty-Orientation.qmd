@@ -32,7 +32,7 @@ execute:
 
 # Announcement
 
--   Live slides available at <https://github.com/jaejungca/cep-faculty-orient>
+-   Live slides available at <https://jaejungca.github.io/cep-faculty-orient/>
 
 # Overall Agenda
 
