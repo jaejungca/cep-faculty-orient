@@ -6,6 +6,7 @@ date: "09/09/2026"
 date-format: "M/D/YYYY"
 format:
   revealjs:
+    output-file: "index.html"
     center: false
     logo: "logos/MSDM logo horizontal-transparent.png"
     theme: [default, theme.scss]
