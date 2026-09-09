@@ -1,12 +1,13 @@
 ---
 title: "MSDM CEP: <span style='color: #b52b4c;'><br>Orientation for Faculty - Project Leads and Instructors</span>"
-author: "Jae Jung, Ph.D., Professor of Marketing"
-institute: "Master of Science in Digital Marketing (MSDM) Program Cal Poly Pomona"
+author: "Jae Min Jung, Ph.D., Professor of Marketing"
+institute: "Master of Science in Digital Marketing (MSDM) Program"
 date: "09/09/2026"
 date-format: "M/D/YYYY"
 format:
   revealjs:
     output-file: "index.html"
+    #title-slide-style: pandoc
     center: false
     logo: "logos/MSDM logo horizontal-transparent.png"
     theme: [default, theme.scss]
